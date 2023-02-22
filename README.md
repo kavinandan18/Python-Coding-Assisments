@@ -1,7 +1,7 @@
 # Python-Coding-Assisments
 
 
-# ********************** Apprtment Hunting *********************
+# ********* Apprtment Hunting **********
 
 # find_optimal_block function 
 
